@@ -58,7 +58,8 @@ into a single classifier for improved accuracy.
 - source ml_env/bin/activate
   
 ### 2. Install dependencies
-- pip install -r requirements.txt
+- pip install -r torch torchvision lightgbm numpy pandas scikit-learn matplotlib opencv-python Pillow seaborn tqdm scipy joblib
+
 
 
 ---
