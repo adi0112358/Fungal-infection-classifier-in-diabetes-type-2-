@@ -96,8 +96,21 @@ Scripts generate:
 - More augmentation and fusion variants
 
 ---
+## Requirements
+torch
+torchvision
+lightgbm
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+Pillow
+seaborn
+tqdm
+scipy
+joblib
 
-
-
+---
 
 
